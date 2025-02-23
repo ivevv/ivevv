@@ -6,4 +6,6 @@ Now I'm using it to store personal projects as I learn by myself and with the he
 
 In pinned, ordered from most to least recent, are the projects that I feel represent my skill set the best.
 
-I've completed a **manual testing** course from *Yandex Practicum*, and my next learning goals are **test automation** and **Unity**.
+I've completed a **manual testing** course from *Yandex Practicum*. [Here](https://ivevv.youtrack.cloud/dashboard?id=207-2) is my *YouTrack* Dashboard for the final project.
+
+My next learning goals are **test automation** and **Unity**.
